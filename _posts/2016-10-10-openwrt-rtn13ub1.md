@@ -17,11 +17,11 @@ git clone git://git.openwrt.org/15.05/openwrt.git
 ```
 ##更新
 全程联网，也非常慢，非常慢
-```
+{% highlight ruby %}
 cd openwrt
 ./script/feeds update -a
 ./script/feeds install -a
-```
+{% endhighlight %}
 ##配置
 ```
 make defconfig
@@ -62,6 +62,6 @@ scp ./openwrt-ramips-rt305x-rt-n13u-squashfs-sysupgrade.bin root@192.168.8.1:/tm
 sysupgrade -v openwrt-ramips-rt305x-rt-n13u-squashfs-sysupgrade.bin
 ```
 
-参考链接
+参考链接  
 https://wiki.openwrt.org/zh-cn/doc/howto/buildroot.exigence  
 https://wiki.openwrt.org/zh-cn/doc/howto/build
