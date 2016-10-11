@@ -3,7 +3,7 @@ layout: post
 title: openwrt build for asus rt-n13u b1
 ---
 
-##环境及准备 
+##env & prepare 
 ubuntu 16.04 64bit
 ```
 sudo apt-get update
