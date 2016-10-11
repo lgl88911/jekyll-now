@@ -9,7 +9,7 @@ ubuntu 16.04 64bit
 sudo apt-get update
 sudo apt-get install build-essential subversion git-core libncurses5-dev zlib1g-dev gawk flex quilt libssl-dev xsltproc libxml-parser-perl mercurial bzr ecj cvs unzip
 sudo apt-get install build-essential subversion libncurses5-dev zlib1g-dev gawk gcc-multilib flex git-core gettext libssl-dev
-```
+```  
   
 ## 下载代码  
 非常慢，非常慢  
