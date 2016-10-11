@@ -1,6 +1,7 @@
 ---
 layout: post
 title: openwrt build for asus rt-n13u b1
+tags: openwrt rt-n13u b1
 ---
 
 ## env & prepare 
